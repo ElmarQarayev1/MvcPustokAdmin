@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/elmar/Desktop/CodeAcademy/MVC/MvcPustokAdmin/MvcPustok/MvcPustok
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/elmar/Desktop/CodeAcademy/MVC/MvcPustokAdmin/MvcPustok/MvcPustok/Areas/Manage/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlL1ZpZXdzL0F1dGhvci9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elmar/Desktop/CodeAcademy/MVC/MvcPustokAdmin/MvcPustok/MvcPustok/Areas/Manage/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlL1ZpZXdzL0F1dGhvci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/elmar/Desktop/CodeAcademy/MVC/MvcPustokAdmin/MvcPustok/MvcPustok/Areas/Manage/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlL1ZpZXdzL0Rhc2hib2FyZC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

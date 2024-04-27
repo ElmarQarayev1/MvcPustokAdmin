@@ -1,4 +1,7 @@
 ﻿using System;
+using Microsoft.EntityFrameworkCore.Query;
+using MvcPustok.Models;
+
 namespace MvcPustok.Areas.Manage.ViewModels
 {
 	public class PaginatedList<T>
@@ -28,6 +31,7 @@ namespace MvcPustok.Areas.Manage.ViewModels
 
         }
 
+      
     }
 }
 

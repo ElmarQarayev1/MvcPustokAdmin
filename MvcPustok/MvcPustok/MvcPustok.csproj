@@ -21,6 +21,7 @@
     <None Remove="Areas\Manage\Views\Shared\" />
     <None Remove="Areas\Manage\ViewModels\" />
     <None Remove="Areas\Manage\Views\Genre\" />
+    <None Remove="Areas\Manage\Views\Author\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -38,6 +39,7 @@
     <Folder Include="wwwroot\manage\assets\vendor\" />
     <Folder Include="Areas\Manage\ViewModels\" />
     <Folder Include="Areas\Manage\Views\Genre\" />
+    <Folder Include="Areas\Manage\Views\Author\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.18" />
