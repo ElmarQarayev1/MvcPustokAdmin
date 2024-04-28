@@ -15,7 +15,6 @@ namespace MvcPustok.Areas.Manage.Controllers
 		{
 			_context = context;
 		}
-
 		public  IActionResult Index(int page=1)
 		{
 			var query = _context.Sliders;
@@ -25,7 +24,6 @@ namespace MvcPustok.Areas.Manage.Controllers
         {
             return View();
         }
-
         [HttpPost]
         public IActionResult Create(Slider slider)
 		{
