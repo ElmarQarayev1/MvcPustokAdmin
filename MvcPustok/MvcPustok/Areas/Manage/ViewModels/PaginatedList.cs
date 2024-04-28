@@ -31,7 +31,6 @@ namespace MvcPustok.Areas.Manage.ViewModels
 
         }
 
-      
     }
 }
 

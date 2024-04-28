@@ -22,6 +22,7 @@
     <None Remove="Areas\Manage\ViewModels\" />
     <None Remove="Areas\Manage\Views\Genre\" />
     <None Remove="Areas\Manage\Views\Author\" />
+    <None Remove="Areas\Manage\Views\Slider\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -40,6 +41,7 @@
     <Folder Include="Areas\Manage\ViewModels\" />
     <Folder Include="Areas\Manage\Views\Genre\" />
     <Folder Include="Areas\Manage\Views\Author\" />
+    <Folder Include="Areas\Manage\Views\Slider\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.18" />
